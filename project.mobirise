@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Nepal Medical Help",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -35,7 +35,7 @@
     "uniqCompNum": 20,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/img-e2940-128x145.png",
+    "favicon": "@PROJECT_PATH@/assets/images/3-128x84.png",
     "noImageResize": ""
   },
   "pages": {
